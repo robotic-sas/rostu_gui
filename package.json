@@ -1,0 +1,19 @@
+{
+  "name": "rostu_gui",
+  "version": "1.0.0",
+  "description": "Rostu GUI App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rostu",
+    "msl",
+    "krsbi",
+    "kri",
+    "robot",
+    "soccer"
+  ],
+  "author": "muchlis",
+  "license": "MIT"
+}
