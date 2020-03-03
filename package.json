@@ -15,5 +15,9 @@
     "soccer"
   ],
   "author": "muchlis",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "rosnodejs": "^3.0.2"
+  }
 }
